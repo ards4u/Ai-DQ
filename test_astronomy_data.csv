@@ -1,0 +1,6 @@
+star_id,star_name,constellation,magnitude,distance_lightyears,spectral_type,luminosity,temperature_kelvin,mass_solar,radius_solar,discovery_date
+S001,Sirius,Canis Major,-1.46,8.6,A1V,25.4,9940,2.06,1.71,Ancient
+S002,Betelgeuse,Orion,0.42,700,M1Ia,126000,3500,11.6,887,Ancient
+S003,Proxima Centauri,Centaurus,11.13,4.24,M5.5Ve,0.0017,3042,0.12,0.15,1915
+S004,Vega,Lyra,0.03,25,A0V,40.12,9602,2.14,2.36,Ancient
+S005,Polaris,Ursa Minor,1.98,433,F7Ib,1260,6015,5.4,37.5,Ancient
